@@ -19,13 +19,16 @@ networkx==3.4.2
 numpy==2.2.6
 open_clip_torch==3.1.0
 packaging==25.0
+pandas==2.3.2
 pillow==11.3.0
 pyparsing==3.2.3
 python-dateutil==2.9.0.post0
+pytz==2025.2
 PyYAML==6.0.2
 regex==2025.7.34
 requests==2.32.5
 safetensors==0.6.2
+seaborn==0.13.2
 six==1.17.0
 sympy==1.14.0
 timm==1.0.19
@@ -34,5 +37,6 @@ torchaudio==2.8.0
 torchvision==0.23.0
 tqdm==4.67.1
 typing_extensions==4.14.1
+tzdata==2025.2
 urllib3==2.5.0
 wcwidth==0.2.13
